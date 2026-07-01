@@ -7,4 +7,5 @@ understood why an arbitrary thing like "action" would be significant enough in t
 I also didn't like what it implied on teleology. Instead I searched for a more geometric way to describe everything. Eventually I found
 myself in a rabbit hole and ended up sort of involving myself with general relativity, however I lacked a lot of the core infastructure
 of the field thus I was left to fend for myself, in the pursuit I used what I knew already (Auto Differentiation, Cliffords Algebra and Robotics)
-to hack my way through and ended up with something that I truly think is great.
+to hack my way through and ended up with something that I truly think is great. What I did can be seen at much greater detail in the file POSPT
+which stands for the "Principle of Stagnant Proper Time", a play on fermats principle of least time. Hope you enjoy what I came up with
